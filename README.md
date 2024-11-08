@@ -26,9 +26,7 @@ Perform hypothesis testing to determine if there are significant differences in 
 Create visualizations to communicate findings effectively, including line plots, bar charts, and kde plots.
 
 # Tools and Technologies
-Python: Core programming language for data analysis and machine learning.
-Pandas: Data manipulation and analysis library.
-NumPy: Numerical computing library.
-Matplotlib and Seaborn: Data visualization libraries.
-Scikit-learn: Machine learning library.
-Statsmodels: Statistical modeling library.
+<li>Python: Core programming language for data analysis and machine learning.
+<li>Pandas: Data manipulation and analysis library.
+<li>NumPy: Numerical computing library.
+<li>Matplotlib and Seaborn: Data visualization libraries.
